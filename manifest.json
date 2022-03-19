@@ -3,12 +3,12 @@
   "name": "Menerima pendaftaran Agen Pulsa",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "pwa/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "pwa/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -24,25 +24,25 @@
       "short_name": "Propana Reload",
       "description": "Distributor resmi agen pulsa murah",
       "url": "/today?source=pwa",
-      "icons": [{ "src": "/android-chrome-512x512.png", "sizes": "192x192" }]
+      "icons": [{ "src": "pwa/android-chrome-512x512.png", "sizes": "192x192" }]
     },
     {
       "name": "How's weather tomorrow?",
       "short_name": "Tomorrow",
       "description": "View weather information for tomorrow",
       "url": "/tomorrow?source=pwa",
-      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "pwa/android-chrome-192x192.png", "sizes": "192x192" }]
     }
   ],
-  "description": "Weather forecast information",
+  "description": " agen pulsa murah",
   "screenshots": [
     {
-      "src": "/images/screenshot1.png",
+      "src": "/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "/images/screenshot2.jpg",
+      "src": "/android-chrome-512x512.png",
       "type": "image/jpg",
       "sizes": "540x720"
     }
