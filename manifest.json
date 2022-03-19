@@ -2,16 +2,16 @@
   "short_name": "Agen Pulsa Propana Reload",
   "name": "Menerima pendaftaran Agen Pulsa",
   "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/android-chrome-512x512.png",
+     {
+      "src": "/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
+    {
+      "src": "/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
   ],
   "start_url": "/?source=pwa",
   "background_color": "#3367D6",
@@ -24,14 +24,14 @@
       "short_name": "Propana Reload",
       "description": "Distributor resmi agen pulsa murah",
       "url": "/today?source=pwa",
-      "icons": [{ "src": "pwa/android-chrome-512x512.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "How's weather tomorrow?",
       "short_name": "Tomorrow",
       "description": "View weather information for tomorrow",
       "url": "/tomorrow?source=pwa",
-      "icons": [{ "src": "pwa/android-chrome-192x192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
     }
   ],
   "description": " agen pulsa murah",
