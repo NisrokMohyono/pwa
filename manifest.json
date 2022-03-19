@@ -3,22 +3,22 @@
   "name": "Menerima pendaftaran Agen Pulsa",
   "icons": [
     {
-      "src": "/images/android/android-launchericon-512-512.png",
+      "src": "/Images/Android/android-launchericon-192-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-256x256.png",
+      "src": "/Images/Android/android-launchericon-512-512.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-384x384.png",
+      "src": "/Images/Android/android-launchericon-512-512.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/images/android/android-launchericon-512-512.png",
+      "src": "/Images/Android/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -36,7 +36,7 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "src": "/android-chrome-192x192.png",
+          "src": "/Images/Android/android-launchericon-192-192.png",
           "sizes": "192x192"
         }
       ]
@@ -48,7 +48,7 @@
       "url": "/tomorrow?source=pwa",
       "icons": [
         {
-          "src": "/android-chrome-192x192.png",
+          "src": "/Images/Android/android-launchericon-192-192.png",
           "sizes": "192x192"
         }
       ]
