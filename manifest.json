@@ -3,12 +3,12 @@
   "name": "Menerima pendaftaran Agen Pulsa",
   "icons": [
     {
-      "src": "pwa/android-chrome-192x192.png",
+      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "pwa/android-chrome-512x512.png",
+      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
