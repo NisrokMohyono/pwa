@@ -1,77 +1,67 @@
-{
-  "short_name": "Agen Pulsa Propana Reload",
-  "name": "Menerima pendaftaran Agen Pulsa",
-  "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/Images/Android/android-launchericon-192-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/Images/Android/android-launchericon-512-512.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/Images/Android/android-launchericon-512-512.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/Images/Android/android-launchericon-512-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "/?source=pwa",
-  "background_color": "#3367D6",
+
+ {
+  "background_color": "#ffffff",
+  "description": "Agen Pulsa PROPANA RELOAD adalah distributor resmi yang menyediakan berbagai macam jenis produk elektronik ,pulsa, paket data,game online dll",
+  "dir": "ltr",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#3367D6",
-  "shortcuts": [
-    {
-      "name": "Agen Pulsa Propana Reload",
-      "short_name": "Propana Reload",
-      "description": "Distributor resmi agen pulsa murah",
-      "url": "/today?source=pwa",
-      "icons": [
-        {
-          "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/Images/Android/android-launchericon-192-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "How's weather tomorrow?",
-      "short_name": "Tomorrow",
-      "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
-      "icons": [
-        {
-          "src": "https://raw.githubusercontent.com/NisrokMohyono/pwa/main/Images/Android/android-launchericon-192-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    }
-  ],
-  "description": " agen pulsa murah",
+  "name": "PROPANA RELOAD BANDUNG",
+  "orientation": "any",
+  "scope": "https://propanareloadbandung.blogspot.com",
+  "short_name": "PROPANA RELOAD BANDUNG",
+  "start_url": "https://propanareloadbandung.blogspot.com",
+  "theme_color": "#ffffff",
+  "categories": [],
   "screenshots": [
     {
-      "src": "/android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "540x720"
+      "src": "/images/screenshot-1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
-      "type": "image/jpg",
-      "sizes": "540x720"
+      "src": "/images/screenshot-2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
     }
-  ]
+  ],
+  "icons": [
+    {
+      "src": "https://propanareloadbandung.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4cj_WyFrqtjupL2IhS1bmWZNkMFpZKwgzRti0EGJ11PqLcxh5_CQVr8aTX1wbebLnp2zF9M-m34ExtKhIjrBfNEpCJ23xPyz3MR3CC8ocq4Q-2mUr_o5_0b-UFdfSwexqLHA048ZmVdNMN4jMeKy4B6kfVt_DKBd8Rdmun1rnVnnXyGxbHg0jxai3g/w1200-h630-p-k-no-nu/IMG_20220522_101529_094.jpg",
+      "type": "image/jpeg",
+      "sizes": "620x310"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicEWATm7q1XeEq12EqtMV_My7BZzrCZdvBsA4sY6GjOXS81WLGbIQ6-SHZBrrNHDqlJU3sEnn9j2DI7tw_uMRsjNaP5z09ZHwJ-VDuUhCGG1LO8gW7v4sPcLInyxO7gIvzY6RXJDPmQQ59Ws-RTqiWDOji_h2pNGBMqmo8UhyfHbJGSBbxZkAbxh5MuQ/w1200-h630-p-k-no-nu/IMG_20201128_213119_742.jpg",
+      "type": "image/jpeg",
+      "sizes": "680x300"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjzca_okbPRJsgSVtcYHnh5lwscdz4m5PXdHzmjtq4YiqmHEuTc-4AOKhyXHUO9qxjFiXwbAngpea1PHiqQs4UHWPdbXJHkfmhmBUSCVHuMpgLD5EjF86ScOC3A31NTRpkIB6tmyL4sZUrnyh_KpuUa9iaNISva4ybjKFtPYZsXuTohVSHXpiXsqEDxQ/w1200-h630-p-k-no-nu/IMG_20220412_233023.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x630"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb9M1l8EKJN17B87d0Pl4uu1aeIiNNEdljC8cebgkiaUi-ySfZWldrMEXNOpTeAhckhaVV3pCfYV6AhZ2cM4R2CKbra5GU-wUYjDhA0L3wSBJEqtN_YRPGyc4juvt4rKaw2Va-k8N1zRSJ6yXb02XcI0vNBtTwDTbXUz43IcupIpvVU9TqFoOZh9qB5A/w1200-h630-p-k-no-nu/IMG_20220413_221825.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x630"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5dzGy8TT3YnxpFpbPcOGSz_LQIdZlr8pjSQtsn69OyBd-JnBzX8AkUWCaPR_xssQ1YrEYcc6trkUJ6KLnQvKl2cOCRqQbOUhZHvSDuoRqq2fO_mwYWEB1FQFZ8zOnSTel_ACmdrijFb93aKbQJ-QCwLWWl4nR6UZ3rJcM-5den-i4GjDmJlFguLGO0A/w1200-h630-p-k-no-nu/IMG_20220404_031931_331.jpg",
+      "type": "image/jpeg",
+      "sizes": "800x450"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9nS9hBZvl4bpsnXFZwXVWQwkOv_nqfr8ABQ",
+      "type": "image/jpeg",
+      "sizes": "610x320"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
 }
-"prefer_related_applications": true,
-"related_applications": [
-  {
-    "platform": "play",
-    "id": "com.google.samples.apps.iosched"
-  }
-]
