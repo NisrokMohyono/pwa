@@ -1,5 +1,7 @@
+
+
 [
-  { "nama": "Produk 1", "harga": 50000, "stok": 100, "karton": 1 },
+  { "nama": "kopi", "harga": 50000, "stok": 100, "karton": 1 },
   { "nama": "Produk 2", "harga": 15000, "stok": 200, "karton": 1 },
   { "nama": "Produk 3", "harga": 80000, "stok": 50, "karton": 1 },
   { "nama": "Produk 4", "harga": 25000, "stok": 150, "karton": 1 },
