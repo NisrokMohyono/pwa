@@ -1,27 +1,32 @@
-const produkGudang = [
-    { nama: "Pasta Saus Bolognese", harga: 50000, stok: 100 , karton: 1,},
-    { nama: "Gula Pasir", harga: 15000, stok: 200 , karton: 1},
-    { nama: "Minyak Zaitun Extra Virgin", harga: 80000, stok: 50, karton: 1 },
-    { nama: "Sabun Mandi Aromaterapi", harga: 25000, stok: 150, karton: 1 },
-    { nama: "Kopi Arabika", harga: 35000, stok: 80, karton: 1 }
-    // Tambahkan produk lain jika diperlukan
-  ];
-
-  // Fungsi untuk membuat tabel produk
-  function generateProductTable() {
-    const table = document.getElementById("produkTable");
-    produkGudang.forEach((produk) => {
-      const row = table.insertRow();
-      const cellNama = row.insertCell(0);
-      const cellHarga = row.insertCell(1);
-      const cellStok = row.insertCell(2);
-      const cellKarton = row.insertCell(3);
-      cellNama.innerHTML = produk.nama;
-      cellHarga.innerHTML = `Rp${produk.harga.toLocaleString()}`;
-      cellStok.innerHTML = produk.stok;
-      cellKarton.innerHTML = produk.karton;
-    });
-  }
-
-  // Panggil fungsi untuk membuat tabel saat halaman dimuat
-  window.onload = generateProductTable;
+[
+  { "nama": "Produk 1", "harga": 50000, "stok": 100, "karton": 1 },
+  { "nama": "Produk 2", "harga": 15000, "stok": 200, "karton": 1 },
+  { "nama": "Produk 3", "harga": 80000, "stok": 50, "karton": 1 },
+  { "nama": "Produk 4", "harga": 25000, "stok": 150, "karton": 1 },
+  { "nama": "Produk 5", "harga": 35000, "stok": 80, "karton": 1 },
+  { "nama": "Produk 6", "harga": 60000, "stok": 120, "karton": 2 },
+  { "nama": "Produk 7", "harga": 20000, "stok": 180, "karton": 1 },
+  { "nama": "Produk 8", "harga": 45000, "stok": 90, "karton": 1 },
+  { "nama": "Produk 9", "harga": 30000, "stok": 160, "karton": 2 },
+  { "nama": "Produk 10", "harga": 70000, "stok": 70, "karton": 1 },
+  { "nama": "Produk 11", "harga": 55000, "stok": 110, "karton": 1 },
+  { "nama": "Produk 12", "harga": 18000, "stok": 190, "karton": 1 },
+  { "nama": "Produk 13", "harga": 100000, "stok": 40, "karton": 1 },
+  { "nama": "Produk 14", "harga": 12000, "stok": 220, "karton": 1 },
+  { "nama": "Produk 15", "harga": 90000, "stok": 60, "karton": 1 },
+  { "nama": "Produk 16", "harga": 40000, "stok": 130, "karton": 1 },
+  { "nama": "Produk 17", "harga": 25000, "stok": 100, "karton": 1 },
+  { "nama": "Produk 18", "harga": 30000, "stok": 90, "karton": 1 },
+  { "nama": "Produk 19", "harga": 80000, "stok": 50, "karton": 1 },
+  { "nama": "Produk 20", "harga": 35000, "stok": 80, "karton": 1 },
+  { "nama": "Produk 21", "harga": 60000, "stok": 120, "karton": 2 },
+  { "nama": "Produk 22", "harga": 20000, "stok": 180, "karton": 1 },
+  { "nama": "Produk 23", "harga": 45000, "stok": 90, "karton": 1 },
+  { "nama": "Produk 24", "harga": 30000, "stok": 160, "karton": 2 },
+  { "nama": "Produk 25", "harga": 70000, "stok": 70, "karton": 1 },
+  { "nama": "Produk 26", "harga": 55000, "stok": 110, "karton": 1 },
+  { "nama": "Produk 27", "harga": 18000, "stok": 190, "karton": 1 },
+  { "nama": "Produk 28", "harga": 100000, "stok": 40, "karton": 1 },
+  { "nama": "Produk 29", "harga": 12000, "stok": 220, "karton": 1 },
+  { "nama": "Produk 30", "harga": 90000, "stok": 60, "karton": 1 }
+]
