@@ -1,10 +1,10 @@
 [
-  { "nama": "Harpic 200 ml", "harga": 110.000, "stok": 40, "karton": 1 },
-  { "nama": "So Klin Lantai Refill 800 ml", "harga": 90.000, "stok": 40, "karton": 1 },
-  { "nama": "Super Pell 400 ml", "harga": 100000, "stok": 40, "karton": 1 },
-  { "nama": "Super Pell 800 ml", "harga": 100000, "stok": 40, "karton": 1 },
-  { "nama": "Vixal Botol 500 ml", "harga": 100000, "stok": 40, "karton": 1 },
-  { "nama": "Vixal Botol 800 ml", "harga": 110000, "stok": 40, "karton": 1 },
-  { "nama": "Wipol Ref 450 ml", "harga": 150000, "stok": 40, "karton": 1 },
-  { "nama": "Wipol Ref 800 ml", "harga": 120000, "stok": 40, "karton": 1 }
+  { "nama": "Harpic 200 ml", "harga": 110.000, "stok": 24, "karton": 1 },
+  { "nama": "So Klin Lantai Refill 800 ml", "harga": 90.000, "stok": 12, "karton": 1 },
+  { "nama": "Super Pell 400 ml", "harga": 100000, "stok": 24, "karton": 1 },
+  { "nama": "Super Pell 800 ml", "harga": 100000, "stok": 12, "karton": 1 },
+  { "nama": "Vixal Botol 500 ml", "harga": 100000, "stok": 12, "karton": 1 },
+  { "nama": "Vixal Botol 800 ml", "harga": 110000, "stok": 12, "karton": 1 },
+  { "nama": "Wipol Ref 450 ml", "harga": 150000, "stok": 24, "karton": 1 },
+  { "nama": "Wipol Ref 800 ml", "harga": 120000, "stok": 12, "karton": 1 }
 ]
