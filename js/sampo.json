@@ -1,0 +1,11 @@
+[
+  { "nama": "Clear Sachet Besar", "harga": 270000, "stok": 40, "karton": 1 },
+  { "nama": " Head & Shoulder", "harga": 300000, "stok": 42, "karton": 1 },
+  { "nama": "Pantene Conditioner", "harga": 270000, "stok": 42, "karton": 1 },
+  { "nama": "Pantene Shampo Sachet", "harga": 270000, "stok": 42, "karton": 1 },
+  { "nama": "Rejoice Rich Sachet", "harga": 270000, "stok": 42, "karton": 1 },
+  { "nama": "Shampo Dove Sachet", "harga": 270000, "stok": 42, "karton": 1 },
+  { "nama": "Shampo Lifebuoy Botol", "harga": 230000, "stok": 48, "karton": 1 },
+  { "nama": "Shampo Lifebuoy Sachet", "harga": 270000, "stok": 42, "karton": 1 },
+  { "nama": "Shampo Sunsilk Sachet", "harga": 270000, "stok": 42, "karton": 1 }
+]
