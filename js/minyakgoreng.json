@@ -1,0 +1,17 @@
+[
+  { "nama": "Sunco 1 Liter", "harga": 100000, "stok": 12, "karton": 1 },
+  { "nama": "Sunco 2 Liter", "harga": 105000, "stok": 6, "karton": 1 },
+  { "nama": "Bimoli 1 Liter", "harga": 100000, "stok": 12, "karton": 1 },
+  { "nama": "Bimoli 2 Liter", "harga": 106000, "stok": 6, "karton": 1 },
+  { "nama": "Sania 1 Liter", "harga": 95000, "stok": 12, "karton": 1 },
+  { "nama": "Sania 2 Liter", "harga": 95000, "stok": 6, "karton": 1 },
+  { "nama": "Filma 1 Liter", "harga": 95000, "stok": 12, "karton": 1 },
+  { "nama": "Filma 2 Liter", "harga": 100000, "stok": 6, "karton": 1 },
+  { "nama": "Tropical 1 Liter", "harga": 95000, "stok": 12, "karton": 1 },
+  { "nama": "Tropical 2 Liter", "harga": 100000, "stok": 6, "karton": 1 },
+  { "nama": "Fortune 1 Liter", "harga": 95000, "stok": 12, "karton": 1 },
+  { "nama": "Fortune 2 Liter", "harga": 100000, "stok": 6, "karton": 1 },
+  { "nama": "Kunci Mas 1 Liter", "harga": 95000, "stok": 12, "karton": 1 },
+  { "nama": "Kunci Mas 2 Liter", "harga": 95000, "stok": 6, "karton": 1 },
+  { "nama": "Minyak 5 Liter", "harga": 145000, "stok": 4, "karton": 1 }
+]
