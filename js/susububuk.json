@@ -7,5 +7,5 @@
   { "nama": "Milo 3 in 1 ", "harga": 250000, "stok": 12, "karton": 1 },
   { "nama": "Milo Actigen 18 gr ", "harga": 180000, "stok": 20, "karton": 1 },
   { "nama": "Nestle Bubur Merah/Ijo ", "harga": 120000, "stok": 16, "karton": 1 },
-  { "nama": "Ovaltine sachet ", "harga": 200000, "stok": 8 pak, "karton": 1 }
+  { "nama": "Ovaltine sachet ", "harga": 200000, "stok": 8, "karton": 1 }
 ]
