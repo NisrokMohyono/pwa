@@ -1,0 +1,13 @@
+[
+  { "nama": "Gula pasir SUJ", "harga": 300000, "stok": 50, "karton": 1 },
+  { "nama": "Gula pasir GMP", "harga": 350000, "stok": 50, "karton": 1 },
+  { "nama": "Gula MSI Medan Putih", "harga": 325000, "stok": 50, "karton": 1 },
+  { "nama": "Gula MSI Medan kuning", "harga": 310000, "stok": 50, "karton": 1 },
+  { "nama": "Gula KBA putih", "harga": 332000, "stok": 50, "karton": 1 },
+  { "nama": "Gula KBS kuning", "harga": 300000, "stok": 50, "karton": 1 },
+  { "nama": "Gula Matahari Merah", "harga": 300000, "stok": 50, "karton": 1 },
+  { "nama": "Gula kristal", "harga": 330000, "stok": 50, "karton": 1 },
+  { "nama": "Gula pasir Gulaku putih", "harga": 210000, "stok": 50, "karton": 1 },
+  { "nama": "Gula pasir Gulaku kuning", "harga": 300000, "stok": 50, "karton": 1 },
+  { "nama": "Gula Matahari Merah", "harga": 180000, "stok": 50, "karton": 1 }
+]
